@@ -1,2 +1,7 @@
 #!/bin/bash
+/*
+ * Python3- Use python3 to perform the first task
+ *
+ */
+
 python3 main.py
