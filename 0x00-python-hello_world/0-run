@@ -1,2 +1,3 @@
 #!/bin/bash
+/* My First Python Program */
 python3 main.py
